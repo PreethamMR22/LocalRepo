@@ -6,3 +6,7 @@ body {
     color:white;
     font-family: Arial, Helvetica, sans-serif;
 }
+h{
+    font-size:20px;
+    text-shadow: 560px 40px 60px black;
+}
