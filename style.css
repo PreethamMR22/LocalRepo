@@ -1,3 +1,8 @@
 p{
     background-color: pink;
 }
+body {
+    background-color: blue;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
